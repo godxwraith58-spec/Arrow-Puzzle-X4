@@ -1,0 +1,12 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Arrows Puzzle",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "AP Game",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "description": "Slide every arrow out of the road"
+}
